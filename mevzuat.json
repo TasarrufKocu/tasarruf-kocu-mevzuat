@@ -2,30 +2,59 @@
   "semaSurumu": 1,
   "asgariOdemeOrani": {
     "deger": [
-      { "kosulAlt": 0, "kosulUst": 50000, "deger": 0.20 },
-      { "kosulAlt": 50000, "deger": 0.40 }
+      {
+        "kosulAlt": 0,
+        "kosulUst": 50000,
+        "deger": 0.2
+      },
+      {
+        "kosulAlt": 50000,
+        "deger": 0.4
+      }
     ],
     "gecerlilikAyi": "2024-09"
   },
   "tcmbAzamiFaizOrani": {
     "deger": [
-      { "kosulAlt": 0, "kosulUst": 30000, "deger": 0.0325 },
-      { "kosulAlt": 30000, "kosulUst": 180000, "deger": 0.0375 },
-      { "kosulAlt": 180000, "deger": 0.0425 }
+      {
+        "kosulAlt": 0,
+        "kosulUst": 30000,
+        "deger": 0.0325
+      },
+      {
+        "kosulAlt": 30000,
+        "kosulUst": 180000,
+        "deger": 0.0375
+      },
+      {
+        "kosulAlt": 180000,
+        "deger": 0.0425
+      }
     ],
-    "gecerlilikAyi": "2026-09"
+    "gecerlilikAyi": "2026-10"
   },
   "borcKapatmaKredisiAzamiVade": {
     "deger": [
-      { "kosulAlt": 0, "kosulUst": 125000, "deger": 36 },
-      { "kosulAlt": 125000, "kosulUst": 250000, "deger": 24 },
-      { "kosulAlt": 250000, "deger": 12 }
+      {
+        "kosulAlt": 0,
+        "kosulUst": 125000,
+        "deger": 36
+      },
+      {
+        "kosulAlt": 125000,
+        "kosulUst": 250000,
+        "deger": 24
+      },
+      {
+        "kosulAlt": 250000,
+        "deger": 12
+      }
     ],
     "gecerlilikAyi": "2025-02"
   },
   "faizVergiOrani": {
-    "deger": 0.30,
+    "deger": 0.3,
     "gecerlilikAyi": "2024-01"
   },
-  "sonGuncelleme": "2026-09-11T22:20:00Z"
+  "sonGuncelleme": "2026-09-28T06:10:13.990Z"
 }
